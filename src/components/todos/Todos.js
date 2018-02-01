@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Todo from './Todo'; /* code changed */
+import Todo from './Todo'; 
 
 class Todos extends Component {
 
